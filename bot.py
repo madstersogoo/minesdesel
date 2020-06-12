@@ -97,4 +97,4 @@ async def salt(ctx):
 
 
 
-client.run('Njc0NjAzNjUyODI0MTcwNTA5.XrrgDQ.zugIhZ5m8VrRNckLimm0gwM1kzs')
+client.run('')
