@@ -74,5 +74,3 @@ async def vote(ctx, *,user):
 @client.command()
 async def db(ctx):
     await ctx.send('db up and running')
-
-client.run('Njc0NjAzNjUyODI0MTcwNTA5.Xjq_nA.onfX97fYQG9v1tGj8qcWfyZolao')
